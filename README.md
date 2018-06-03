@@ -1,6 +1,8 @@
 # desafios
 Desafios de programação
 
+1. [Número Palíndromo](https://github.com/ufrpe-uast/desafios/blob/master/1-numero-palindromo/README.md)
+
 ## Como participar?
 1. Dê um fork no repositório ou crie sua branch.
 2. Resolva o desafio.
